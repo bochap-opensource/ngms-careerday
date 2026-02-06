@@ -1,0 +1,7 @@
+ipywidgets
+jupyterlab
+matplotlib
+numpy
+opencv-python
+Pillow
+requests
