@@ -5,3 +5,4 @@ numpy
 opencv-python
 Pillow
 requests
+hide_code==0.5.2
