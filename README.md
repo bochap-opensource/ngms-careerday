@@ -8,7 +8,7 @@ Welcome to the repository for the **NGMS Career Day** presentation! This project
 
 ## 📚 About This Talk
 
-This presentation was created for the Career Day at **[Insert School Name, e.g., North Gwinnett Middle School]**. Unlike a static slide deck, this repository uses a Jupyter Notebook to allow for live code execution, making the session interactive and engaging for students.
+This presentation was created for the Career Day at **North Gwinnett Middle School**. Unlike a static slide deck, this repository uses a Jupyter Notebook to allow for live code execution, making the session interactive and engaging for students.
 
 **Primary Goals:**
 * **Demystify Tech:** Explain what a career in [Software Engineering/Data Science] actually looks like.
